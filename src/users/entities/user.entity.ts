@@ -17,7 +17,7 @@ export class User {
   })
   type: string;
 
-  @Column({ default: 0 })
+  @Column({ default: 1 })
   state: number;
 
   @Column({ nullable: true })
