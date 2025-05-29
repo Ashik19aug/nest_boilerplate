@@ -18,6 +18,8 @@ $ npm install
 
 ```bash
 
+$ npm install @nestjs/config
+
 $ npm install @nestjs/typeorm typeorm mysql2
 $ npm install @nestjs/passport passport passport-local
 $ npm install @nestjs/jwt passport-jwt
